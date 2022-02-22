@@ -1,2 +1,2 @@
 # PythonListOrder
-order a lisr=t of integers without using method sort cuz i'm bored
+order a list of integers without using the method sort cuz I'm bored
