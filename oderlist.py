@@ -1,5 +1,5 @@
 l=[]
-nbelt=input("give number of number you will put\n")
+nbelt=input("give number of numbers you will put\n")
 for i in range(int(nbelt)):
     nbr=input("give your number\n")
     l.append(int(nbr))
